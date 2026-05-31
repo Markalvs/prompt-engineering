@@ -1,10 +1,10 @@
 # prompt-engineering
 
-Portfolio of AI prompts, automation workflows, chatbot systems and prompt engineering projects.
+Portfólio de prompts de IA, fluxos de trabalho de automação, sistemas de chatbot e projetos de engenharia de prompts.
 
 ## Projetos
 
-### Agente de Qualificação Comercial
+### Agente de Qualificação Comercial para Nicho Fitness
 
 Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados e agendamento de visitas presenciais.
 
