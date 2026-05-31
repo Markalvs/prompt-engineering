@@ -4,7 +4,7 @@ Portfólio de prompts de IA, fluxos de trabalho de automação, sistemas de chat
 
 ## Projetos
 
-### Agente de Qualificação Comercial para Nicho Fitness
+## Agente de Qualificação Comercial para Nicho Fitness
 
 Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados e agendamento de visitas presenciais.
 
