@@ -15,4 +15,4 @@ Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados
 - 92 follow-ups realizados
 - 770 mensagens processadas
 
-➡️ [Ver projeto completo](./chatbot-gym.md)
+[Ver projeto completo](./chatbot-gym.md)
