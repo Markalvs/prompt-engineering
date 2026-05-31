@@ -4,7 +4,7 @@ Portfolio of AI prompts, automation workflows, chatbot systems and prompt engine
 
 ## Projetos
 
-### Agente de Qualificação Comercial (Chatbot Gym)
+### Agente de Qualificação Comercial
 
 Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados e agendamento de visitas presenciais.
 
