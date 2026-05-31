@@ -8,7 +8,7 @@ Portfólio de prompts de IA, fluxos de trabalho de automação, sistemas de chat
 
 Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados e agendamento de visitas presenciais.
 
-**Principais resultados:**
+**Principais resultados em 15 dias:**
 - 27 leads qualificados
 - 49,09% de taxa de qualificação
 - 92 follow-ups realizados
@@ -22,7 +22,7 @@ Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados
 
 Agente de IA desenvolvido para qualificação de clientes, recomendação de produtos e encaminhamento de oportunidades para a equipe comercial.
 
-**Principais resultados:**
+**Principais resultados em 15 dias:**
 
 * 11 leads qualificados
 * 24,44% de taxa de qualificação
