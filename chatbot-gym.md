@@ -36,6 +36,8 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 
 ## Resultados Obtidos
 
+![Dashboard do Agente](assets/faixa-preta.png)
+
 ### Métricas Operacionais
 
 | Indicador | Resultado |
