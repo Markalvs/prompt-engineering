@@ -30,5 +30,5 @@ Agente de IA desenvolvido para qualificação de clientes, recomendação de pro
 * 334 mensagens processadas
 * Crescimento de 8,44% na taxa de qualificação
 
-[Ver projeto completo](./triciclos-carga.md)
+[Ver projeto completo](./chatbot-triciclos-carga.md)
 
