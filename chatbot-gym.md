@@ -59,6 +59,46 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 
 ---
 
+## Impacto Gerado
+
+* 55 novos leads atendidos pelo agente.
+* 27 oportunidades qualificadas para a equipe comercial.
+* Taxa de qualificação de 49,09%.
+* 92 follow-ups realizados automaticamente.
+* 770 mensagens processadas.
+* Crescimento de 16,23% na taxa de qualificação em relação ao período anterior.
+* Aumento da eficiência no processo de conversão e agendamento presencial.
+
+---
+
+## Análise dos Resultados
+
+O agente automatizou a jornada inicial de atendimento, qualificação e conversão de leads, conduzindo potenciais clientes até a etapa de agendamento presencial de forma estruturada e orientada para resultados.
+
+Durante o período analisado, foram gerados 55 novos leads, dos quais 27 foram qualificados, demonstrando eficiência na identificação de oportunidades e no direcionamento dos contatos com maior potencial de conversão.
+
+---
+
+## Fluxo de Atendimento
+
+O agente realiza a identificação das necessidades do cliente, responde dúvidas, apresenta os serviços disponíveis e conduz o lead para o agendamento de uma experiência inicial ou visita presencial.
+
+Ao longo da jornada, são aplicadas estratégias de qualificação, tratamento de objeções e follow-ups automáticos para maximizar a conversão das oportunidades.
+
+---
+
+## Diferenciais da Solução
+
+* Qualificação automatizada de leads.
+* Agendamento de visitas e experiências presenciais.
+* Follow-ups automáticos para recuperação de oportunidades.
+* Atendimento comercial padronizado.
+* Tratamento inicial de dúvidas e objeções.
+* Condução do lead até a etapa de conversão.
+* Redução do esforço operacional da equipe comercial.
+
+---
+
 ## Tecnologias e Conceitos Aplicados
 
 - Prompt Engineering
