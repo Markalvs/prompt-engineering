@@ -9,7 +9,6 @@ Portfolio of AI prompts, automation workflows, chatbot systems and prompt engine
 Agente de IA desenvolvido para qualificação de leads, follow-ups automatizados e agendamento de visitas presenciais.
 
 **Principais resultados:**
-- 55 novos leads
 - 27 leads qualificados
 - 49,09% de taxa de qualificação
 - 92 follow-ups realizados
