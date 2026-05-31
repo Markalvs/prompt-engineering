@@ -39,7 +39,7 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 
 ### Dashboard de Performance
 
-![Dashboard do Agente](./assets/triciclos-carga.png)
+![Dashboard do Agente](./assets/triciclos.png)
 
 ### Métricas Operacionais
 
