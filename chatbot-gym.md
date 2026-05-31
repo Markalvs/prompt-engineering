@@ -57,8 +57,6 @@ O fluxo foi estruturado utilizando técnicas de Prompt Engineering, Conversation
 | Follow-ups Realizados | +82 |
 | Mensagens Processadas | +253 |
 
----
-
 ## Impacto Gerado
 
 * 55 novos leads atendidos pelo agente.
